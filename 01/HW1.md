@@ -1,7 +1,7 @@
 # 第一週
 ## code
 * Not
-    * code
+    * [Not.hdl](https://github.com/www-abcdefg/co109a/blob/master/01/Not.hdl)
     ```
     // This file is part of www.nand2tetris.org
     // and the book "The Elements of Computing Systems"
@@ -23,7 +23,7 @@
     }
     ```
 * And
-    * code
+    * [And.hdl](https://github.com/www-abcdefg/co109a/blob/master/01/And.hdl)
     ```
     // This file is part of www.nand2tetris.org
     // and the book "The Elements of Computing Systems"
@@ -48,7 +48,7 @@
 
     ```
 * Or
-    * code
+    * [Or.hdl](https://github.com/www-abcdefg/co109a/blob/master/01/Or.hdl)
     ```
     // This file is part of www.nand2tetris.org
     // and the book "The Elements of Computing Systems"
@@ -73,7 +73,7 @@
     }
     ```
 * Xor
-    * code
+    * [Xor.hdl](https://github.com/www-abcdefg/co109a/blob/master/01/Xor.hdl)
     ```
     // This file is part of www.nand2tetris.org
     // and the book "The Elements of Computing Systems"
@@ -98,7 +98,7 @@
     }
     ```
 * Mux
-    * code
+    * [Mux.hdl](https://github.com/www-abcdefg/co109a/blob/master/01/Mux.hdl)
     ```
     // This file is part of www.nand2tetris.org
     // and the book "The Elements of Computing Systems"
@@ -124,7 +124,7 @@
     }
     ```
 * DMux
-    * code
+    * [DMux.hdl](https://github.com/www-abcdefg/co109a/blob/master/01/DMux.hdl)
     ```
     // This file is part of www.nand2tetris.org
     // and the book "The Elements of Computing Systems"
@@ -150,5 +150,5 @@
     }
     ```
     ## 圖片
-    * ![picture]()
-    * ![picture1]()
+    * ![picture](https://github.com/www-abcdefg/co109a/blob/master/01/hw1.jpg)
+    * ![picture1](https://github.com/www-abcdefg/co109a/blob/master/01/hw1(1).jpg)
