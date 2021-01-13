@@ -34,5 +34,5 @@
     D;JNE
     ```
 
-![picture](https://github.com/www-abcdefg/co109a/blob/master/04/mult/HW8.jpg)
-![picture1](https://github.com/www-abcdefg/co109a/blob/master/04/mult/HW8-1.jpg)
+![picture](https://github.com/www-abcdefg/co109a/blob/master/04/mult/HW8.png)
+![picture1](https://github.com/www-abcdefg/co109a/blob/master/04/mult/HW8-1.png)

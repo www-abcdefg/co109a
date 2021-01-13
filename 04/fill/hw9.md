@@ -50,5 +50,5 @@
     0;JMP  
     ```
 
-![picture](https://github.com/www-abcdefg/co109a/blob/master/04/fill/HW9.jpg)
-![picture1](https://github.com/www-abcdefg/co109a/blob/master/04/fill/HW9-1.jpg)
+![picture](https://github.com/www-abcdefg/co109a/blob/master/04/fill/HW9.png)
+![picture1](https://github.com/www-abcdefg/co109a/blob/master/04/fill/HW9-1.png)
