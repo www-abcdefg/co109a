@@ -1,0 +1,54 @@
+# 第十週
+* Fill
+    * [Fill.asm](https://github.com/www-abcdefg/co109a/tree/master/04/fill/Fill.asm)
+    ```
+    // This file is part of www.nand2tetris.org
+    // and the book "The Elements of Computing Systems"
+    // by Nisan and Schocken, MIT Press.
+    // File name: projects/04/Fill.asm
+
+    // Runs an infinite loop that listens to the keyboard input.
+    // When a key is pressed (any key), the program blackens the screen,
+    // i.e. writes "black" in every pixel;
+    // the screen should remain fully black as long as the key is pressed. 
+    // When no key is pressed, the program clears the screen, i.e. writes
+    // "white" in every pixel;
+    // the screen should remain fully clear as long as no key is pressed.
+
+    // Put your code here.
+    //16384---->screen
+    //24576---->keyboard
+    @8192               
+    D=A               
+    @0                
+    M=D                
+    @24576
+    D=M
+    @18                  
+    D;JNE            
+    //WHITE LOOP
+    @0
+    D=M               
+    M=M-1                
+    @0              
+    D;JEQ           
+    @16383          
+    A=D+A                
+    M=0              
+    @8                
+    0;JMP           
+    //BLACK LOOP
+    @0
+    D=M
+    M=M-1
+    @0
+    D;JEQ            
+    @24576
+    A=A-D
+    M=-1
+    @18
+    0;JMP  
+    ```
+
+![picture](https://github.com/www-abcdefg/co109a/blob/master/04/fill/HW9.jpg)
+![picture1](https://github.com/www-abcdefg/co109a/blob/master/04/fill/HW9-1.jpg)
