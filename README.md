@@ -37,6 +37,10 @@
 # 第十三週
 * [第 13 週習題 -- 第五章完成 Computer.hdl](https://github.com/www-abcdefg/co109a/blob/master/05/HW12.md)
 # 第十四週
-* [第 14 週習題 -- 第六章習題 組譯器沒有符號版]()
+* [第 14 週習題 -- 第六章習題 組譯器沒有符號版](https://github.com/www-abcdefg/co109a/blob/master/06/HW13.md)
 # 第十五週
-* [第 15 週習題 -- 第六章習題 組譯器有符號版]()
+* [第 15 週習題 -- 第六章習題 組譯器有符號版](https://github.com/www-abcdefg/co109a/blob/master/06/HW14.md)
+# 補充
+* 第四章參考陳昱誠程式碼
+* 第十四週習題程式碼參考鍾誠老師第六章程式碼
+* 其他週習題皆參考鍾誠老師以及陳昱誠程式碼讀懂後改寫
